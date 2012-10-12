@@ -102,12 +102,6 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\eZeeFlow\eZeeFlow.Web.csproj">
-      <Project>{573C6C62-FE95-4410-96FC-D5894CA39214}</Project>
-      <Name>eZeeFlow.Web</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

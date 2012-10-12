@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.Web", "eZeeFlow\eZeeFlow.Web.csproj", "{573C6C62-FE95-4410-96FC-D5894CA39214}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.Tests", "eZeeFlow.Tests\eZeeFlow.Tests.csproj", "{DBC6A86E-12F3-4E6E-8088-AE6E2EACBB04}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "eZeeFlow.Domain", "eZeeFlow.Domain", "{B3DF902C-4491-458F-9D5C-E0DC634B93DB}"
@@ -19,16 +17,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.Sql", "eZeeFlow.Sq
 EndProject
 Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "eZeeFlow.Cloud", "eZeeFlow.Cloud\eZeeFlow.Cloud.ccproj", "{0880D7D5-7C71-4C47-BE49-7E351FD18AC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.Web", "eZeeFlow.Web\eZeeFlow.Web.csproj", "{573C6C62-FE95-4410-96FC-D5894CA39214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{573C6C62-FE95-4410-96FC-D5894CA39214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{573C6C62-FE95-4410-96FC-D5894CA39214}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{573C6C62-FE95-4410-96FC-D5894CA39214}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{573C6C62-FE95-4410-96FC-D5894CA39214}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DBC6A86E-12F3-4E6E-8088-AE6E2EACBB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DBC6A86E-12F3-4E6E-8088-AE6E2EACBB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBC6A86E-12F3-4E6E-8088-AE6E2EACBB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -53,6 +49,10 @@ Global
 		{0880D7D5-7C71-4C47-BE49-7E351FD18AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0880D7D5-7C71-4C47-BE49-7E351FD18AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0880D7D5-7C71-4C47-BE49-7E351FD18AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573C6C62-FE95-4410-96FC-D5894CA39214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573C6C62-FE95-4410-96FC-D5894CA39214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573C6C62-FE95-4410-96FC-D5894CA39214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573C6C62-FE95-4410-96FC-D5894CA39214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

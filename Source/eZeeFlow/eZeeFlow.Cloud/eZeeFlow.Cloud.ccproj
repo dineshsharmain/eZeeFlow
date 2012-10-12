@@ -37,7 +37,7 @@
     <ServiceConfiguration Include="ServiceConfiguration.Cloud.cscfg" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\eZeeFlow\eZeeFlow.Web.csproj">
+    <ProjectReference Include="..\eZeeFlow.Web\eZeeFlow.Web.csproj">
       <Name>eZeeFlow.Web</Name>
       <Project>{573c6c62-fe95-4410-96fc-d5894ca39214}</Project>
       <Private>True</Private>
