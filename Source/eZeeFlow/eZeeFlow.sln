@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.Web", "eZeeFlow\eZeeFlow.Web.csproj", "{573C6C62-FE95-4410-96FC-D5894CA39214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.Tests", "eZeeFlow.Tests\eZeeFlow.Tests.csproj", "{DBC6A86E-12F3-4E6E-8088-AE6E2EACBB04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "eZeeFlow.Domain", "eZeeFlow.Domain", "{B3DF902C-4491-458F-9D5C-E0DC634B93DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "eZeeFlow.Data", "eZeeFlow.Data", "{B72DE7E9-6466-4F9D-BB0B-95F25984A815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.BizLogics", "eZeeFlow.BizLogics\eZeeFlow.BizLogics.csproj", "{19B332CC-FE4B-48E9-BD89-173CD751D855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.Notification.Gateway", "eZeeFlow.Notification.Gateway\eZeeFlow.Notification.Gateway.csproj", "{BF20B8A3-2A61-4BEA-8ABA-262E88B5A88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.Common", "eZeeFlow.Common\eZeeFlow.Common.csproj", "{5944B6CD-2E4A-4F12-9FC6-EEFE51A4E4F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.StorageHelper", "eZeeFlow.StorageHelper\eZeeFlow.StorageHelper.csproj", "{E5E1D4B1-F847-4D31-A3D1-0FAC1B436554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eZeeFlow.Sql", "eZeeFlow.Sql\eZeeFlow.Sql.csproj", "{8BC2681E-4F24-4372-8162-C9E7FDC057E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{573C6C62-FE95-4410-96FC-D5894CA39214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573C6C62-FE95-4410-96FC-D5894CA39214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573C6C62-FE95-4410-96FC-D5894CA39214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573C6C62-FE95-4410-96FC-D5894CA39214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC6A86E-12F3-4E6E-8088-AE6E2EACBB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC6A86E-12F3-4E6E-8088-AE6E2EACBB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC6A86E-12F3-4E6E-8088-AE6E2EACBB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC6A86E-12F3-4E6E-8088-AE6E2EACBB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B332CC-FE4B-48E9-BD89-173CD751D855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B332CC-FE4B-48E9-BD89-173CD751D855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B332CC-FE4B-48E9-BD89-173CD751D855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B332CC-FE4B-48E9-BD89-173CD751D855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF20B8A3-2A61-4BEA-8ABA-262E88B5A88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF20B8A3-2A61-4BEA-8ABA-262E88B5A88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF20B8A3-2A61-4BEA-8ABA-262E88B5A88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF20B8A3-2A61-4BEA-8ABA-262E88B5A88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5944B6CD-2E4A-4F12-9FC6-EEFE51A4E4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5944B6CD-2E4A-4F12-9FC6-EEFE51A4E4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5944B6CD-2E4A-4F12-9FC6-EEFE51A4E4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5944B6CD-2E4A-4F12-9FC6-EEFE51A4E4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E1D4B1-F847-4D31-A3D1-0FAC1B436554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E1D4B1-F847-4D31-A3D1-0FAC1B436554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E1D4B1-F847-4D31-A3D1-0FAC1B436554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E1D4B1-F847-4D31-A3D1-0FAC1B436554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC2681E-4F24-4372-8162-C9E7FDC057E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC2681E-4F24-4372-8162-C9E7FDC057E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC2681E-4F24-4372-8162-C9E7FDC057E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC2681E-4F24-4372-8162-C9E7FDC057E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19B332CC-FE4B-48E9-BD89-173CD751D855} = {B3DF902C-4491-458F-9D5C-E0DC634B93DB}
+		{BF20B8A3-2A61-4BEA-8ABA-262E88B5A88E} = {B3DF902C-4491-458F-9D5C-E0DC634B93DB}
+		{5944B6CD-2E4A-4F12-9FC6-EEFE51A4E4F9} = {B3DF902C-4491-458F-9D5C-E0DC634B93DB}
+		{E5E1D4B1-F847-4D31-A3D1-0FAC1B436554} = {B72DE7E9-6466-4F9D-BB0B-95F25984A815}
+		{8BC2681E-4F24-4372-8162-C9E7FDC057E7} = {B72DE7E9-6466-4F9D-BB0B-95F25984A815}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal

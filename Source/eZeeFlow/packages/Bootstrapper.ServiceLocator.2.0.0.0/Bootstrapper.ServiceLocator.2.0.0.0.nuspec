@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Bootstrapper.ServiceLocator</id>
+    <version>2.0.0.0</version>
+    <title>Bootstrapper.ServiceLocator</title>
+    <authors>Luis Bocaletti</authors>
+    <owners>Luis Bocaletti</owners>
+    <licenseUrl>http://bootstrapper.codeplex.com/license</licenseUrl>
+    <projectUrl>http://bootstrapper.codeplex.com</projectUrl>
+    <iconUrl>http://i3.codeplex.com/Download?ProjectName=bootstrapper&amp;DownloadId=289179</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Common Service Locator extension for Bootstrapper</description>
+    <summary>Common Service Locator extension for Bootstrapper</summary>
+    <tags>bootstrapping ioc servicelocator</tags>
+    <dependencies>
+      <dependency id="Bootstrapper" version="2.0.0.0" />
+    </dependencies>
+  </metadata>
+</package>

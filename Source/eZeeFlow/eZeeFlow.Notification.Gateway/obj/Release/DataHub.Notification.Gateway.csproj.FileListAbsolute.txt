@@ -1,0 +1,50 @@
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Notification.Gateway.dll.config
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Notification.Gateway.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Notification.Gateway.pdb
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\Aditi.WindowsAzure.StorageHelper.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Common.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Logging.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.SqlService.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\EntityFramework.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\Newtonsoft.Json.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\RestSharp.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\Twilio.Api.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\Aditi.WindowsAzure.StorageHelper.pdb
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Common.pdb
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Logging.pdb
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.SqlService.pdb
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\EntityFramework.xml
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\Newtonsoft.Json.xml
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\RestSharp.xml
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\Twilio.Api.pdb
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\bin\Release\Twilio.Api.xml
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\obj\Release\DataHub.Notification.Gateway.csprojResolveAssemblyReference.cache
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\obj\Release\DataHub.Notification.Gateway.dll
+D:\Applications\DataHubServices\DataHub\src\DataHub.Notification.Gateway\obj\Release\DataHub.Notification.Gateway.pdb
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Notification.Gateway.dll.config
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Notification.Gateway.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Notification.Gateway.pdb
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\Aditi.WindowsAzure.StorageHelper.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Common.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Logging.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.SqlService.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\EntityFramework.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\Newtonsoft.Json.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\RestSharp.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\Twilio.Api.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\Aditi.WindowsAzure.StorageHelper.pdb
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Common.pdb
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.Logging.pdb
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\DataHub.SqlService.pdb
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\EntityFramework.xml
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\Newtonsoft.Json.xml
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\RestSharp.xml
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\Twilio.Api.pdb
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\bin\Release\Twilio.Api.xml
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\obj\Release\DataHub.Notification.Gateway.csprojResolveAssemblyReference.cache
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\obj\Release\DataHub.Notification.Gateway.dll
+D:\Git Hub Repositoties\DataHub\src\DataHub.Notification.Gateway\obj\Release\DataHub.Notification.Gateway.pdb

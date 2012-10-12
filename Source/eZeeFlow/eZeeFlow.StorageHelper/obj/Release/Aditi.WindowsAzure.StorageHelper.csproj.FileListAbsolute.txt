@@ -1,0 +1,18 @@
+D:\Applications\DataHubServices\DataHub\src\Aditi.WindowsAzure.StorageHelper\bin\Release\Aditi.WindowsAzure.StorageHelper.dll
+D:\Applications\DataHubServices\DataHub\src\Aditi.WindowsAzure.StorageHelper\bin\Release\Aditi.WindowsAzure.StorageHelper.pdb
+D:\Applications\DataHubServices\DataHub\src\Aditi.WindowsAzure.StorageHelper\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+D:\Applications\DataHubServices\DataHub\src\Aditi.WindowsAzure.StorageHelper\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+D:\Applications\DataHubServices\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.csprojResolveAssemblyReference.cache
+D:\Applications\DataHubServices\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.Properties.Resources.resources
+D:\Applications\DataHubServices\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.csproj.GenerateResource.Cache
+D:\Applications\DataHubServices\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.dll
+D:\Applications\DataHubServices\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.pdb
+D:\Git Hub Repositoties\DataHub\src\Aditi.WindowsAzure.StorageHelper\bin\Release\Aditi.WindowsAzure.StorageHelper.dll
+D:\Git Hub Repositoties\DataHub\src\Aditi.WindowsAzure.StorageHelper\bin\Release\Aditi.WindowsAzure.StorageHelper.pdb
+D:\Git Hub Repositoties\DataHub\src\Aditi.WindowsAzure.StorageHelper\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+D:\Git Hub Repositoties\DataHub\src\Aditi.WindowsAzure.StorageHelper\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+D:\Git Hub Repositoties\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.Properties.Resources.resources
+D:\Git Hub Repositoties\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.csproj.GenerateResource.Cache
+D:\Git Hub Repositoties\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.dll
+D:\Git Hub Repositoties\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.pdb
+D:\Git Hub Repositoties\DataHub\src\Aditi.WindowsAzure.StorageHelper\obj\Release\Aditi.WindowsAzure.StorageHelper.csprojResolveAssemblyReference.cache
