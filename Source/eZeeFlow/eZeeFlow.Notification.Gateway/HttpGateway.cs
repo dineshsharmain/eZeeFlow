@@ -1,7 +1,7 @@
-﻿using DataHub.Common;
-using DataHub.Common.Models;
-using DataHub.Logging;
-using DataHub.Notification.Gateway.Helper;
+﻿using eZeeFlow.Common;
+using eZeeFlow.Common.Models;
+using eZeeFlow.Logging;
+using eZeeFlow.Notification.Gateway.Helper;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -9,14 +9,14 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
-using DataHub.Common.Enums;
+using eZeeFlow.Common.Enums;
 
-namespace DataHub.Notification.Gateway
+namespace eZeeFlow.Notification.Gateway
 {
     public class HttpGateway : INotificationGateway
     {
         //To DO: Will fetch the URL from the DB based on the user input from the user's notification preference page. 
-        private const string BaseAPIUri = @"http://datahubnotificationtest.cloudapp.net/api/";
+        private const string BaseAPIUri = @"http://eZeeFlownotificationtest.cloudapp.net/api/";
         //private const string BaseAPIUri = @"http://localhost:82/api/";
         private static string PostFileUploadedSuccessUri = BaseAPIUri + @"Notification/InitiateHTTPRequest";
 
@@ -27,7 +27,7 @@ namespace DataHub.Notification.Gateway
 
         public void Notify(List<Common.Models.NotificationDetails> notificationDetails)
         {
-            DataHubTraceListener traceListener = new DataHubTraceListener();
+            eZeeFlowTraceListener traceListener = new eZeeFlowTraceListener();
             DataStorageHelper objStorageHelper = new DataStorageHelper();
             try
             {
@@ -35,7 +35,7 @@ namespace DataHub.Notification.Gateway
                 {
                     if (!string.IsNullOrEmpty(nd.NotificationMode))
                     {
-                        if (nd.NotificationMode == DataHub.Notification.Gateway.Constants.HTTPRequest)
+                        if (nd.NotificationMode == eZeeFlow.Notification.Gateway.Constants.HTTPRequest)
                         {
                             nd.RecipientDetails = PostFileUploadedSuccessUri;
                             var tenantId = nd.TenantID.ToString();

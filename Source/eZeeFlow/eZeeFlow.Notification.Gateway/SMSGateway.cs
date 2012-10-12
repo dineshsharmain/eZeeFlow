@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 using System.Configuration;
 using Twilio;
 
-namespace DataHub.Notification.Gateway
+namespace eZeeFlow.Notification.Gateway
 {
     public class SMSGateway:INotificationGateway
     {

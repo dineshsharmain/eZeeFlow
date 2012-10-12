@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DataHub.Notification.Gateway")]
+[assembly: AssemblyTitle("eZeeFlow.Notification.Gateway")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Aditi Technologies Pvt Ltd")]
-[assembly: AssemblyProduct("DataHub.Notification.Gateway")]
+[assembly: AssemblyProduct("eZeeFlow.Notification.Gateway")]
 [assembly: AssemblyCopyright("Copyright © Aditi Technologies Pvt Ltd 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

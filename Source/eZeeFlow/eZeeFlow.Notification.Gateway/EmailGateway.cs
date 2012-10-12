@@ -3,15 +3,15 @@ using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Net.Mail;
 using System.Net.Mime;
-using DataHub.Logging;
-using DataHub.Common;
+using eZeeFlow.Logging;
+using eZeeFlow.Common;
 using System.Collections.Generic;
-using DataHub.Common.Models;
-using DataHub.Notification.Gateway.Helper;
+using eZeeFlow.Common.Models;
+using eZeeFlow.Notification.Gateway.Helper;
 using System.Text;
-using DataHub.Common.Enums;
+using eZeeFlow.Common.Enums;
 
-namespace DataHub.Notification.Gateway
+namespace eZeeFlow.Notification.Gateway
 {
     public class EmailGateway : INotificationGateway
     {
@@ -103,7 +103,7 @@ namespace DataHub.Notification.Gateway
         /// </summary>
         public void Notify(List<NotificationDetails> notificationDetails)
         {
-            DataHubTraceListener traceListener = new DataHubTraceListener();
+            eZeeFlowTraceListener traceListener = new eZeeFlowTraceListener();
             try
             {
                 var mail = new MailMessage();
@@ -114,7 +114,7 @@ namespace DataHub.Notification.Gateway
                 {
                     if (!string.IsNullOrEmpty(notificationDetail.NotificationMode))
                     {
-                        if (notificationDetail.NotificationMode == DataHub.Notification.Gateway.Constants.EMail)
+                        if (notificationDetail.NotificationMode == eZeeFlow.Notification.Gateway.Constants.EMail)
                         {
                             mail.To.Add(new MailAddress(notificationDetail.RecipientDetails));
                         }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Configuration;
 
-namespace DataHub.Notification.Gateway
+namespace eZeeFlow.Notification.Gateway
 {
     public static class Configs
     {

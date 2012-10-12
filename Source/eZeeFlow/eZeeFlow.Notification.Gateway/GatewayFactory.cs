@@ -1,8 +1,8 @@
-﻿using DataHub.Common.Models;
-using DataHub.Notification.Gateway.Helper;
+﻿using eZeeFlow.Common.Models;
+using eZeeFlow.Notification.Gateway.Helper;
 using System;
 using System.Collections.Generic;
-namespace DataHub.Notification.Gateway
+namespace eZeeFlow.Notification.Gateway
 {
 
     public class GatewayFactory

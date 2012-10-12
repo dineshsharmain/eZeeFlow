@@ -1,18 +1,17 @@
-﻿using Aditi.WindowsAzure.StorageHelper;
-using DataHub.Common;
-using DataHub.Common.Models;
-using DataHub.Logging;
+﻿using eZeeFlow.StorageHelper;
+using eZeeFlow.Common;
+using eZeeFlow.Common.Models;
+using eZeeFlow.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using DataHub.Common.Enums;
+using eZeeFlow.Common.Enums;
 
 namespace DataHub.Notification.Gateway.Helper
 {
     public class DataStorageHelper
     {
-
         #region Notification Methods
         /// <summary>
         /// Write Notification Details To Table Storage
@@ -25,7 +24,7 @@ namespace DataHub.Notification.Gateway.Helper
             try
             {
                 bool notifyStatus = false;
-                string notificationStatusTableName = Common.Constants.notificationStatusTableName;
+                string notificationStatusTableName = eZeeFlow.Common.Constants.notificationStatusTableName;
                 string timeString = (DateTime.MaxValue.Ticks - DateTime.UtcNow.Ticks).ToString("d19");
                 TenantEntity tenant = new TenantEntity(TenantId, timeString);
                 tenant.FileID = fileID;

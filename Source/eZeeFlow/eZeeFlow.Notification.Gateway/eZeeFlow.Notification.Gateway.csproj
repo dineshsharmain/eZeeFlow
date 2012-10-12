@@ -64,7 +64,9 @@
     <Compile Include="EmailGateway.cs" />
     <Compile Include="GatewayFactory.cs" />
     <Compile Include="Helper\DataAccessHelper.cs" />
-    <Compile Include="Helper\DataStorageHelper.cs" />
+    <Compile Include="Helper\DataStorageHelper.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="HttpGateway.cs" />
     <Compile Include="INotificationGateway.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -73,6 +75,16 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\eZeeFlow.Common\eZeeFlow.Common.csproj">
+      <Project>{5944b6cd-2e4a-4f12-9fc6-eefe51a4e4f9}</Project>
+      <Name>eZeeFlow.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\eZeeFlow.StorageHelper\eZeeFlow.StorageHelper.csproj">
+      <Project>{e5e1d4b1-f847-4d31-a3d1-0fac1b436554}</Project>
+      <Name>eZeeFlow.StorageHelper</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

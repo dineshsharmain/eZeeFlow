@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DataHub.Notification.Gateway
+namespace eZeeFlow.Notification.Gateway
 {
     static class Constants
     {

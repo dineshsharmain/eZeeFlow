@@ -1,19 +1,19 @@
-﻿using DataHub.Common;
-using DataHub.Logging;
-using DataHub.SqlService.Context;
-using DataHub.Common.Models;
-using DataHub.SqlService.Models;
+﻿using eZeeFlow.Common;
+using eZeeFlow.Logging;
+using eZeeFlow.SqlService.Context;
+using eZeeFlow.Common.Models;
+using eZeeFlow.SqlService.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using DataHub.Common.Enums;
+using eZeeFlow.Common.Enums;
 
-namespace DataHub.Notification.Gateway.Helper
+namespace eZeeFlow.Notification.Gateway.Helper
 {
     public class DataAccessHelper
     {
-        private DataHubContext context = new DataHubContext();
+        private eZeeFlowContext context = new eZeeFlowContext();
 
         public List<string> GetNotificationModesForTenant(string tenantID, string eventType)
         {
@@ -36,7 +36,7 @@ namespace DataHub.Notification.Gateway.Helper
                 }
                 catch (Exception ex)
                 {
-                    DataHubTraceListener traceListener = new DataHubTraceListener();
+                    eZeeFlowTraceListener traceListener = new eZeeFlowTraceListener();
                     traceListener.WriteLog(Categories.Error, "Eventing", ex.Message.ToString(), ex.StackTrace.ToString(), tenantId.ToString());
 
                 }
@@ -60,7 +60,7 @@ namespace DataHub.Notification.Gateway.Helper
                 }
                 catch (Exception ex)
                 {
-                    DataHubTraceListener traceListener = new DataHubTraceListener();
+                    eZeeFlowTraceListener traceListener = new eZeeFlowTraceListener();
                     traceListener.WriteLog(Categories.Error, "Eventing", ex.Message.ToString(), ex.StackTrace.ToString(), strTenantID.ToString());
                 }
 
