@@ -1,0 +1,10 @@
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\bin\eZeeFlow.StorageHelper.dll
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\bin\eZeeFlow.StorageHelper.pdb
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\obj\Debug\eZeeFlow.StorageHelper.csprojResolveAssemblyReference.cache
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\obj\Debug\eZeeFlow.StorageHelper.Properties.Resources.resources
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\obj\Debug\eZeeFlow.StorageHelper.csproj.GenerateResource.Cache
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\obj\Debug\eZeeFlow.StorageHelper.dll
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.StorageHelper\obj\Debug\eZeeFlow.StorageHelper.pdb

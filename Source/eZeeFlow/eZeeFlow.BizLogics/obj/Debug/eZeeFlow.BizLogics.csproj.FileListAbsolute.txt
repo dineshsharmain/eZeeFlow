@@ -1,0 +1,4 @@
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.BizLogics\bin\Debug\eZeeFlow.BizLogics.dll
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.BizLogics\bin\Debug\eZeeFlow.BizLogics.pdb
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.BizLogics\obj\Debug\eZeeFlow.BizLogics.dll
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.BizLogics\obj\Debug\eZeeFlow.BizLogics.pdb

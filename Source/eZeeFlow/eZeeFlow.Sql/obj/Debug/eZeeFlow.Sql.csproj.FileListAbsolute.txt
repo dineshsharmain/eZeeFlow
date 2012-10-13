@@ -1,0 +1,7 @@
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.Sql\bin\Debug\eZeeFlow.Sql.dll.config
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.Sql\bin\Debug\eZeeFlow.Sql.dll
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.Sql\bin\Debug\eZeeFlow.Sql.pdb
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.Sql\bin\Debug\EntityFramework.dll
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.Sql\bin\Debug\EntityFramework.xml
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.Sql\obj\Debug\eZeeFlow.Sql.dll
+D:\Git Hub Repositoties\eZeeFlow\Source\eZeeFlow\eZeeFlow.Sql\obj\Debug\eZeeFlow.Sql.pdb
